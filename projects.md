@@ -10,7 +10,7 @@ permalink: /projects/
 - CAD Modeling
 - Finite Element Analysis
 - Manufacturing & Testing
-![Chassis](assets/images/chassis.png)
+![Chassis](assets/images/FSAE26-FR10001.png)
 
 
 ## CAD & FEA Work
